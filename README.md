@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @DevSainiCom
-- 👀 I’m interested in Cyber Security (Pentest, VM, Cloud security, SIEM, Threat Intelligence)
+
+- 👋 Hi, I’m @Devender
+- 👀 I’m interested in Cyber Security (Pentest, Cloud security, SIEM/SOC, Threat Intelligence)
 - 🌱 I’m currently learning Azure Sentinel, Python
 - 💞️ I’m looking to collaborate on Sentinel, Pentest
 - 📫 How to reach me.. @Devendersaini3 on twitter
